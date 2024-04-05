@@ -192,12 +192,19 @@ h6 {
   color: #fff;
 }
 
+
 .nav-menu a:hover i,
 .nav-menu .active i,
 .nav-menu .active:focus i,
 .nav-menu li:hover>a i {
   color: #ffcd1b;
 }
+
+i.box-icon:hover
+{
+  color: #ffcd1b;
+}
+
 
 /* Mobile Navigation */
 .mobile-nav-toggle {
