@@ -1,11 +1,3 @@
-/**
-* Template Name: iPortfolio
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -246,6 +238,16 @@ h6 {
   background: url("../img/ashish-hero-bg.png") top center;
   /* background-color: black; */
   background-size: cover;
+}
+
+@media only screen and (max-width: 600px) {
+  #hero {
+    width: 100%;
+    height: 100vh;
+    background: url("../img/hero-mobile.png") top center;
+    /* background-color: black; */
+    background-size: cover;
+  }
 }
 
 #hero:before {
