@@ -1130,6 +1130,11 @@ section {
   color: #eaebf0;
 }
 
+.text-color-blue1
+{
+  color: #173b6c!important;
+}
+
 @media (max-width: 1199px) {
   #footer {
     position: static;
