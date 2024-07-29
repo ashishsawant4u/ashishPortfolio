@@ -1142,3 +1142,15 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.farwell-note
+{
+  font-family: "Vollkorn", serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 20px;
+}
+.ashish-sign
+{
+  background-color: #ffcd1b;
+}
