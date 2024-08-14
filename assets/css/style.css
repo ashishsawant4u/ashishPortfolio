@@ -1154,3 +1154,7 @@ section {
 {
   background-color: #ffcd1b;
 }
+.wordart-attribution
+{
+  display: none;
+}
